@@ -16,6 +16,6 @@ coffee - https://thenounproject.com/search/?q=coffee&i=591548
 
 dairy milk - https://thenounproject.com/search/?q=milk&i=2717914
 
-Slogan Font - Font Squirrel
+Text font - https://www.fontspring.com/fonts/paulogoode/eurocine/eurocine-regular
 
-Honeycomb Pattern - either drawn myself or assembled from Noun Squirrel
+Honeycomb Pattern - drawn myself
