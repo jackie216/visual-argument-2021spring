@@ -1,31 +1,31 @@
 **Assets**
 
-Almond Milk - https://thenounproject.com/search/?q=almond+milk&i=1810330
+Olena Panasovska. "Almond milk." the Noun Project, https://thenounproject.com/search/?q=almond+milk&i=1810330. [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/).
 
-blueberries - https://thenounproject.com/search/?q=blueberries&i=1920689
+Oleksandr Panasovskyi. "blueberry." the Noun Project, https://thenounproject.com/search/?q=blueberries&i=1920689. [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/).
 
-tomato - https://thenounproject.com/search/?q=tomatoes&i=3735169
+BlackActurus. "tomato." the Noun Project, https://thenounproject.com/search/?q=tomatoes&i=3735169. [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/).
 
-cattle - https://thenounproject.com/search/?q=cows&i=1046417
+Edwin PM. "Apple." the Noun Project, https://thenounproject.com/search/?q=apples&i=2464737. [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/).
 
-apple - https://thenounproject.com/search/?q=apples&i=2464737
+Econceptive. "Cherry." the Noun Project, https://thenounproject.com/search/?q=cherry&i=3415125. [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/).
 
-cherries - https://thenounproject.com/search/?q=cherry&i=3415125
+Nikita Cherednikov. "Coffee." the Noun Project, https://thenounproject.com/search/?q=coffee&i=591548. [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/).
 
-coffee - https://thenounproject.com/search/?q=coffee&i=591548
+Tomas Knopp. "Milk." the Noun Project, https://thenounproject.com/search/?q=milk&i=2717914. [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/).
 
-dairy milk - https://thenounproject.com/search/?q=milk&i=2717914
+Icongeek26. "Pear." the Noun Project, https://thenounproject.com/search/?q=pears&i=3019245. [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/).
 
-pear - https://thenounproject.com/search/?q=pears&i=3019245
+Made by Made. "Watermelon." the Noun Project,  https://thenounproject.com/search/?q=watermelon&i=1173420. [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/).
 
-watermelon - https://thenounproject.com/search/?q=watermelon&i=1173420
+Econceptive. "grapes." the Noun Project, https://thenounproject.com/search/?q=grapes&i=3415131. [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/).
 
-grapes - https://thenounproject.com/search/?q=grapes&i=3415131
+Icons Producer. "beans." the Noun Project, https://thenounproject.com/search/?q=beans&i=1481948. [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/).
 
-beans - https://thenounproject.com/search/?q=beans&i=1481948
+Yu luck. "raspberry." the Noun Project, https://thenounproject.com/search/?q=raspberries&i=563224. [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/).
 
-raspberries - https://thenounproject.com/search/?q
+Paulo Goode. "Eurocine." Fontspring, https://www.fontspring.com/fonts/paulogoode/eurocine/eurocine-regular
 
-Text font - https://www.fontspring.com/fonts/paulogoode/eurocine/eurocine-regular
+uhuru1701. "bumble bee (also a jigsaw puzzle )." https://search.creativecommons.org/photos/d27fee3b-006a-4302-97f8-6a59934c6318. [CC-BY-SA-2.0](https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich)
 
-Honeycomb Pattern - drawn myself
+Honeycomb Pattern - drawn myself on GIMP-2.0
